@@ -1,0 +1,34 @@
+# Compiled C executables
+qno_01
+qno_02
+qno_03
+qno_04
+qno_05
+qno_06
+qno_07
+qno_08
+qno_09
+qno_10
+qno_11
+qno_12
+qno_13
+qno_14
+qno_15
+qno_16
+qno_17
+qno_18
+qno_19
+qno_20
+qno_21
+qno_22
+qno_23
+qno_24
+
+# GCC output
+a.out
+*.out
+*.o
+*.exe
+
+# VS Code
+.vscode/
